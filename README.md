@@ -4,7 +4,7 @@
   <h1> Hi there!</h1>
     
 <ul align="left">
-<li>🔭 I’m currently working on ...</li>
+<li>🔭 I’m currently working on Full Stack Development</li>
 <li>🌱 I’m currently learning about Android app development</li>
 <li>👯 I’m looking to collaborate on ...</li>
 <li>🤔 I’m looking for help with ...</li>
