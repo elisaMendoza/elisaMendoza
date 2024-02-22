@@ -1,5 +1,6 @@
 <div id= "header" align= "center" >
   <img src = "https://media.giphy.com/media/bMdZu3fG2ZEBO/giphy.gif?cid=790b76111uskspg78m2qzsmbrzsir0e8go72csmn0e45z6oj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200/>
+</div>
   <h1 align= "center"> Hi there!</h1>
   <ul>
   <li>🔭 I’m currently working on ...</li>
@@ -11,7 +12,7 @@
  <li>😄 Pronouns: she</li>
  <li>⚡ Fun fact: ...</li>
   </ul>
-</div>
+
 
 <!--
 **elisaMendoza/elisaMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
