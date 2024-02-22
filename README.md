@@ -1,8 +1,7 @@
 <div id= "header" align= "center" >
-  <img src = "https://giphy.com/embed/bMdZu3fG2ZEBO" width="200/>
+  <img src = "https://giphy.com/embed/bMdZu3fG2ZEBO](https://media.giphy.com/media/bMdZu3fG2ZEBO/giphy.gif?cid=790b76111uskspg78m2qzsmbrzsir0e8go72csmn0e45z6oj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200/>
   <h1 align= "center"> Hi there!</h1>
 </div>
-<iframe src="https://giphy.com/embed/bMdZu3fG2ZEBO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/abcnetwork-angry-upset-bMdZu3fG2ZEBO">via GIPHY</a></p>
 
 <!--
 **elisaMendoza/elisaMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
