@@ -10,7 +10,7 @@
 <li>💬 Ask me about baking 🍰 and cooking 🥣 </li>
 <li>📫 How to reach me: <b>elisa.mendoza.olmos@gmail.com</b></li>
 <li>😄 Pronouns: she</li>
-<li>⚡ Fun fact: ...</li>
+<li>⚡ Fun fact: I have a degree in Nutrition and speak spanish, english and german</li>
 </ul>
 <div align="left">
   <h3>🔨Languages and Tools:</h3>
