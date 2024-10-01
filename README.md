@@ -6,7 +6,7 @@
      
 <ul align="left">
 <li>🔭 I’m currently studying an Associate Degree in Informatics and learning about Cybersecurity</li>
-<li>🤔 I’m looking for help with finding internships</li>
+<li>🤔 I’m looking for internships</li>
 <li>💬 Ask me about baking 🍰 and cooking 🥣 </li>
 <li>📫 How to reach me: <b>elisa.mendoza.olmos@gmail.com</b></li>
 <li>😄 Pronouns: she</li>
