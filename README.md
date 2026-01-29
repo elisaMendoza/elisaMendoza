@@ -1,12 +1,12 @@
 <div id= "header" align= "center" >
   <img src = "https://media.giphy.com/media/bMdZu3fG2ZEBO/giphy.gif?cid=790b76111uskspg78m2qzsmbrzsir0e8go72csmn0e45z6oj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"/>
   <h1 align="center"> Hi! I´m Eli</h1>
-  <h3 align="center"> A highly motivated, curious, perseverant informatics student, seeking to take advantage of my skills in technology and complement my previous work experience and passion for health and sustainability, in order to innovate and develop projects with purpose. Love learning new languages and practicing outdoor sports!</h3>
+  <h3 align="center"> A highly motivated, curious, perseverant IT professional, seeking to take advantage of my skills in technology and complement my previous work experience and passion for health and sustainability, in order to innovate and develop projects with purpose. Love learning new languages and practicing outdoor sports!</h3>
 </div>
      
 <ul align="left">
-<li>🔭 I’m currently studying an Associate Degree in Informatics and learning about Cybersecurity</li>
-<li>🤔 I’m looking for internships</li>
+<li>🔭 Associate Degree in Informatics and Cybersecurity</li>
+<li>🤔 ISO 27001 Internal Auditor</li>
 <li>💬 Ask me about baking 🍰 and cooking 🥣 </li>
 <li>📫 How to reach me: <b>elisa.mendoza.olmos@gmail.com</b></li>
 <li>😄 Pronouns: she</li>
